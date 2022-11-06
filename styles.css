@@ -1,9 +1,24 @@
 body {
-    background: cadetblue;
+    background: #29E3B8;
 
 
 }
 
+.assignment {
+    display:flex;
+    padding: 10px;
+    margin:10px;
+    background: #126658;
+}
+
+.assignment img {
+    width:200px;
+    padding: 10px;
+}
 
 
 
+h1 {
+    color: #20B39A;
+    text-align:center;
+}
